@@ -1,0 +1,19 @@
+{
+  "name": "munthakab",
+  "version": "0.0.1",
+  "description": "initial version",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "keywords": [
+    "express",
+    "munthakab"
+  ],
+  "author": "abd aziz<abdulazizabdulnoor@gmail.com>",
+  "licinse": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pug": "^3.0.0"
+  }
+}
